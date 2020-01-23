@@ -1,11 +1,4 @@
-nltk
 numpy
 pandas
 matplotlib
-scipy
-bs4
-seaborn
-sklearn
-wordcloud
-urllib3
 
